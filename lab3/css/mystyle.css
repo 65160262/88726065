@@ -1,0 +1,309 @@
+body    {
+    font-family: arial;
+    background-color: #526D82;
+    text-decoration: none;
+}
+
+h1  {
+    color: rgb(255, 255, 255);
+}
+
+.timeheader {
+    font-family: "tahoma";
+    font-size: 12px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.samefont {
+    font-family: "tahoma";
+    font-size: 13px;
+}
+
+.samefont2 {
+    font-family: "tahoma";
+    font-size: 25px;
+    color: #A9B6C7;
+    font-weight: bold;
+}
+
+.samefont3 {
+    font-family: "tahoma";
+    font-size: 13px;
+    color: #0000FF;
+}
+.samefont4 {
+    font-family: "tahoma";
+    font-size: 13px;
+    color: black;
+}
+
+.samefont5 {
+    font-family: "tahoma";
+    font-size: 15px;
+}
+
+.samefont6 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 15px;
+    color: #9DB2BF;
+    font-weight: bold;
+}
+
+.samefont7 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.samefont8 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 35px;
+    color: #080A0C;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+html {
+    margin: 0%;
+    padding: 0%;
+}
+
+.my-table th,
+.my-table td {
+    border: 1px solid #212931;
+}
+
+.my-table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+
+
+.my-table2 {
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid #008080;
+}
+
+
+
+.btn {
+    background-color: #eee;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    width: 5em;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+    border-radius: 1rem;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0.4rem #dfd9d9;
+    cursor: pointer;
+    margin-right: 3px;
+}
+   
+.btn:active {
+    color: white;
+    box-shadow: 0 0.2rem #dfd9d9;
+    transform: translateY(0.2rem);
+}
+   
+.btn:hover:not(:disabled) {
+    background: rgb(0, 0, 0);
+    color: white;
+    text-shadow: 0 0.1rem #bcb4b4;
+}
+   
+.btn:disabled {
+    cursor: auto;
+    color: grey;
+}
+
+
+.btn2 {
+    background-color: #9CACBF;
+    border: none;
+    padding: 1rem;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    width: 10em;
+    border-radius: 1rem;
+    color: white;
+    box-shadow: 0 0.4rem #9CACBF;
+    cursor: pointer;
+}
+   
+.btn2:active {
+    color: white;
+    box-shadow: 0 0.2rem #9CACBF;
+    transform: translateY(0.2rem);
+}
+   
+.btn2:hover:not(:disabled) {
+    background: #617894;
+    color: white;
+    text-shadow: 0 0.1rem #9CACBF;
+}
+   
+.btn2:disabled {
+    cursor: auto;
+    color: grey;
+}
+
+.botton6 {
+    background-color: #313D49;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 1rem;
+    padding: 20px;
+}
+
+.btn3 {
+    background-color: #9CACBF;
+    border: none;
+    padding: 1rem;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    width: 5em;
+    border-radius: 1rem;
+    color: #617894;
+    box-shadow: 0 0.4rem #9CACBF;
+    cursor: pointer;
+    margin-bottom: 60px;
+    margin-top: 5px;
+}
+   
+.btn3:active {
+    color: white;
+    box-shadow: 0 0.2rem #9CACBF;
+    transform: translateY(0.2rem);
+}
+   
+.btn3:hover:not(:disabled) {
+    background: #617894;
+    color: white;
+    text-shadow: 0 0.1rem #9CACBF;
+}
+   
+.btn3:disabled {
+    cursor: auto;
+    color: grey;
+}
+
+.btn4 {
+    background-color: #9CACBF;
+    border: none;
+    padding: 1rem;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    width: 5em;
+    border-radius: 1rem;
+    color: #617894;
+    box-shadow: 0 0.4rem #9CACBF;
+    cursor: pointer;
+}
+   
+.btn4:active {
+    color: white;
+    box-shadow: 0 0.2rem #9CACBF;
+    transform: translateY(0.2rem);
+}
+   
+.btn4:hover:not(:disabled) {
+    background: #617894;
+    color: white;
+    text-shadow: 0 0.1rem #9CACBF;
+}
+   
+.btn4:disabled {
+    cursor: auto;
+    color: grey;
+}
+
+.btn5 {
+    background-color: #181E25;
+    border: none;
+    padding: 1rem;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    width: 5em;
+    border-radius: 1rem;
+    color: #617894;
+    box-shadow: 0 0.4rem #181E25;
+    cursor: pointer;
+}
+   
+.btn5:active {
+    color: white;
+    box-shadow: 0 0.2rem #181E25;
+    transform: translateY(0.2rem);
+}
+   
+.btn5:hover:not(:disabled) {
+    background: #617894;
+    color: white;
+    text-shadow: 0 0.1rem #181E25;
+}
+   
+.btn5:disabled {
+    cursor: auto;
+    color: grey;
+}
+
+.btn6 {
+    background-color: #181E25;
+    border: none;
+    padding: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    width: 5em;
+    border-radius: 1rem;
+    color: #617894;
+    box-shadow: 0 0.4rem #181E25;
+    cursor: pointer;
+}
+   
+.btn6:active {
+    color: white;
+    box-shadow: 0 0.2rem #181E25;
+    transform: translateY(0.2rem);
+}
+   
+.btn6:hover:not(:disabled) {
+    background: #617894;
+    color: white;
+    text-shadow: 0 0.1rem #181E25;
+}
+   
+.btn6:disabled {
+    cursor: auto;
+    color: grey;
+}
+
+a:link {
+    color: #0000FF;
+
+}
+
+a:visited {
+
+    color: #0000FF;
+}
+
+a:hover {
+
+    color: #0000FF;
+}
+    
+a:active {
+
+    color: #0000FF;
+}
